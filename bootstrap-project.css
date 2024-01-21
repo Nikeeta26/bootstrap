@@ -1,0 +1,36 @@
+.stylesheet{
+height:100px;
+width:100px;
+}
+.navbar{
+	position:sticky;
+	
+}
+.container{
+	margin-top:10px;
+		display:grid;
+	grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+	grid-gap:40px;
+}
+.carousel-inner{
+	height:500px;
+}
+. {
+	display:flex ;
+	justify-content:center;
+	align-item:center;
+}
+.nav-link{
+	margin-right:100px;
+}
+.navbar-brand{
+	margin-left:10px;
+	padding-right:30px;
+}
+nav{
+	
+    position: fixed;
+   
+    z-index: 1;
+	
+}
